@@ -1,0 +1,1 @@
+include ':app', ':facebook', ':facebook-login', ':facebook-core', ':facebook-common', ':facebook-share', ':facebook-places', ':facebook-messenger', ':facebook-applinks', ':account-kit-sdk-4.28.0'
